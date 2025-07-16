@@ -13,4 +13,4 @@
 - TWITTER_CONSUMER_SECRET  
 - TWITTER_ACCESS_TOKEN  
 - TWITTER_ACCESS_TOKEN_SECRET
-# Note Make Sure Use The Model correctly
+# Note Make Sure Choose The Ai Model Correctly 
