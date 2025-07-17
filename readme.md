@@ -4,9 +4,10 @@
 ## Quick start
 1. Open https://colab.research.google.com/
 2. Copy and Paste the script Run all the cells
-3. Add your secrets in Colab Secrets (🔑 sidebar)  
-4. Run all cells  
-5. Leave tab open to keep posting every 10 min.
+3. You can Edit The Topics according to You want - Length etc
+4. Add your secrets in Colab Secrets (🔑 sidebar)  
+5. Run all cells  
+6. Leave tab open to keep posting every 10 min.
 
 ## Secrets needed
 - OPENROUTER_KEY  
