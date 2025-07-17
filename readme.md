@@ -2,10 +2,11 @@
 100 % free AI bot that writes & schedules tweets via Google Colab.
 
 ## Quick start
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maes808/Auto-Twitter-Manager/blob/main/main.ipynb)
-2. Add your secrets in Colab Secrets (🔑 sidebar)  
-3. Run all cells  
-4. Leave tab open to keep posting every 10 min.
+1. Open https://colab.research.google.com/
+2. Copy and Paste the script Run all the cells
+3. Add your secrets in Colab Secrets (🔑 sidebar)  
+4. Run all cells  
+5. Leave tab open to keep posting every 10 min.
 
 ## Secrets needed
 - OPENROUTER_KEY  
